@@ -4,3 +4,5 @@ sudo -i: to switch from ec2 user to root users
 lscpu: to show cpu information
 lsmem: to show memory information
 lsblk: to show volume information
+rm file: to remove a file
+cp file1 file2: to copy content from file 1 to file2
