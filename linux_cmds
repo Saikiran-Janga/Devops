@@ -3,3 +3,4 @@ cat: to see the content of a file
 sudo -i: to switch from ec2 user to root users
 lscpu: to show cpu information
 lsmem: to show memory information
+lsblk: to show volume information
