@@ -1,0 +1,3 @@
+touch: to create an empty file
+cat: to see the content of a file
+sudo -i: to switch from ec2 user to root users
