@@ -5,3 +5,4 @@ lscpu: to show cpu information
 lsmem: to show memory information
 git status: to check status
 git stash: to hide the file
+git stash clear: to clear stashes
